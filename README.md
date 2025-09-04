@@ -13,8 +13,8 @@
 ###
 
 <p align="left">
-✨ Creating bugs since <b>2020</b><br>
-📚 I'm currently learning <b>Cloud, System Design, and GenAI (LangChain + LLMs)</b><br>
+✨ Creating bugs since <b>2023</b><br>
+📚 I'm currently learning <b>MERN, System Design, and GenAI (LangChain + LLMs)</b><br>
 🎯 Goals: <b>Ship Charge Smart Route AI v2, crack an SDE role, and build a clean fitness routine</b><br>
 🎲 Fun fact: <b>College cricket team captain—pressure overs trained me for production outages 😄</b>
 </p>
