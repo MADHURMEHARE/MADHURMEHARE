@@ -20,7 +20,7 @@
   <li>Building <b>real-time monitoring systems</b> using WebSockets</li>
   <li>Strengthening <b>backend fundamentals & system design</b> for SDE roles</li>
 </ul>
-🎲 Fun fact: <b>Former college cricket team captain</b> — handling match pressure helped me stay calm during backend failures 😄
+
 </p>
 
 ---
