@@ -3,7 +3,7 @@
 <p align="left">
   I'm <b>Madhur Mehare</b>, a <b>Full-Stack (MERN) Developer</b> focused on building 
   <b>real-time dashboards, scalable APIs, and AI-powered backend systems</b>.
- https://ddy1234.oneapp.dev/ 
+my portfolio website:  https://ddy1234.oneapp.dev/ 
 
 ---
 
