@@ -4,7 +4,7 @@
 Full-Stack (MERN) Developer focused on building <b>scalable backend systems, real-time dashboards, and AI-powered applications</b>.
 </p>
 
-🌐 Portfolio: https://ddy1234.oneapp.dev/
+🌐 Portfolio:
 
 ---
 
