@@ -118,7 +118,5 @@ madhurmehare27@gmail.com
 🐙 GitHub  
 https://github.com/MADHURMEHARE
 
-🌐 Portfolio  
-https://ddy1234.oneapp.dev/
 
 ---
